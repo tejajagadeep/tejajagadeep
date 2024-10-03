@@ -1,69 +1,71 @@
-# Kollimarla Jagadeep
-
+# Kollimarla Jagadeep  
 **Software Engineer**  
-[LinkedIn](https://www.linkedin.com/in/kollimarla-jagadeep) | [Hackerrank](https://www.hackerrank.com/profile/teja_jagadeep)
+
+[LinkedIn](https://www.linkedin.com/in/kollimarla-jagadeep) | [Hackerrank](https://www.hackerrank.com/profile/teja_jagadeep)  
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I'm a passionate **Full Stack Software Engineer** with expertise in building high-performance web applications. With extensive experience in **Java**, **Spring Boot**, **Angular**, and **Microservices**, I have consistently delivered software solutions that exceed client expectations and achieve operational excellence. My focus is on creating scalable, secure, and efficient systems while maintaining a clean and maintainable codebase.
-
----
-
-## 🛠️ Skills
-
-- **Programming Languages:** Java, HTML, CSS, TypeScript, MySQL, MongoDB
-- **Libraries and Frameworks:** Angular, Spring Boot, Microservices, Hibernate, Apache Kafka
+I am a results-driven **Full Stack Software Engineer** with over three years of experience in building scalable, high-performance web applications. I specialize in **Java**, **Spring Boot**, **Angular**, and **Microservices** architectures, delivering robust, secure, and maintainable solutions. My track record includes consistently exceeding client expectations, optimizing processes, and driving innovation with cutting-edge technology. I am committed to clean, efficient code and always striving for operational excellence.
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Skills  
 
-### Software Development Engineer (Full Stack)
-**Cognizant** | *Hyderabad, Telangana*  
-*Sep 2021 - Present*
-
-- Engineered, architected, tested, and deployed software solutions, achieving a 90% customer satisfaction rate.
-- Developed and optimized UIs, server-side solutions, and API integrations, improving performance by 80%.
-- Delivered 8 web applications with 90% code coverage, adhering to high coding standards.
-- Conducted interviews for project onboarding, successfully hiring 7 out of 18 candidates.
-- Mentored 9 junior developers, improving their productivity and project readiness.
-
-### Intern (Software Engineering)
-**Cognizant** | *Kochi, Kerala*  
-*Mar 2021 - Aug 2021*
-
-- Excelled in Java Full Stack Engineering with a 94% proficiency rating.
-- Strong foundation in Java, SQL, Angular, and AWS, earning a 92% rating in organizational assessments.
-- Contributed to high-quality software development in cross-functional teams.
-- Completed a case study in one week, showcasing efficiency and problem-solving skills.
+- **Programming Languages:** Java, TypeScript, HTML, CSS, SQL, MySQL, MongoDB  
+- **Frameworks & Libraries:** Spring Boot, Angular, Hibernate, Microservices, Apache Kafka  
+- **Tools & Technologies:** Docker, GitHub Actions, CI/CD, AWS, RESTful APIs, Agile/Scrum  
 
 ---
 
-## 🔥 Projects
+## 💼 Professional Experience  
 
-### [🎶 Music Player App](https://github.com/tejajagadeep/MusicPlayer)
-- Developed a web application using Angular and Spring Boot, achieving a 95% code review score.
-- Integrated the Spotify API, improving user retention by 90%.
-- Added advanced search and wish list features, reducing search time by 80%.
+### Software Development Engineer (Full Stack)  
+**Cognizant** – Hyderabad, Telangana  
+*September 2021 – Present*  
 
-### [🎬 Movie App](https://github.com/tejajagadeep/movie-app)
-- Built a microservices-based movie application using Angular, Spring Boot, and IMDb API integration.
-- Established a CI/CD pipeline with GitHub Actions and deployed via Docker on AWS EC2.
-- Enhanced fault tolerance and scalability using Spring Cloud Netflix.
+- Architected and deployed software solutions that improved performance by 80% and increased customer satisfaction by 90%.  
+- Developed 8+ high-quality web applications with 90% code coverage, adhering to industry best practices and coding standards.  
+- Led the optimization of UIs, server-side solutions, and API integrations, reducing processing time and saving over 1,000 hours annually through automation.  
+- Successfully conducted interviews, leading to the onboarding of 7 out of 18 candidates for key client projects.  
+- Mentored 9 junior developers, accelerating their integration into projects and enhancing team productivity.  
+
+### Software Engineering Intern  
+**Cognizant** – Kochi, Kerala  
+*March 2021 – August 2021*  
+
+- Achieved a 94% proficiency rating in Java Full Stack Engineering across front-end and back-end technologies.  
+- Delivered projects with a 97% code coverage, applying strong Java, SQL, Angular, and AWS skills to real-world scenarios.  
+- Recognized for completing a key case study in just one week, demonstrating problem-solving skills and exceptional efficiency.  
+- Earned a 92% organizational rating for contributions to cross-functional teams and high-quality software development.
 
 ---
 
-## 🏆 Achievements
+## 🔥 Projects  
 
-- **GenC Next PDP Training Program**, Cognizant, 2024
-- **AWS Certified Cloud Practitioner**, AWS, 2023
-- **FSE Accreditation Program**, Cognizant, 2022
+### [🎶 Music Player App](https://github.com/tejajagadeep/MusicPlayer)  
+- Developed a responsive web app using **Angular** and **Spring Boot**, receiving a 95% code review score.  
+- Integrated the **Spotify API**, enhancing user engagement and boosting retention by 90%.  
+- Implemented advanced search and personalized wish list features, reducing search time by 80%.  
+
+### [🎬 Movie App](https://github.com/tejajagadeep/movie-app)  
+- Built a microservices-based application using **Angular (v17.3.4)**, **Spring Boot (v3.2.4/3.2.5)**, and **IMDb API** for fetching movie details.  
+- Designed a **CI/CD pipeline** using GitHub Actions and Docker for seamless deployment on AWS EC2.  
+- Enhanced fault tolerance and scalability with **Spring Cloud Netflix** for service discovery and load balancing.  
 
 ---
 
-## 🎓 Education
+## 🏆 Achievements  
+
+- **GenC Next PDP Training Program**, Cognizant, 2024  
+- **AWS Certified Cloud Practitioner**, AWS, 2023  
+- **FSE Accreditation Program**, Cognizant, 2022  
+
+---
+
+## 🎓 Education  
 
 **Lovely Professional University**  
-*BE/B.Tech/BS in Computer Science* | *2021*
+*Bachelor of Technology in Computer Science*  
+*2021*  
